@@ -8,6 +8,10 @@ public class WelcomeUser {
 		
 		// Code added by Pranav V
 		System.out.println("Thank you for sharing the code :) ");
+		
+		
+		//Code added by Vinoth R
+		System.out.println("Welcome");
 
 	}
 
